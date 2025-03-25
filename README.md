@@ -12,13 +12,14 @@
 - 《新一代人工智能发展规划》（国务院，2017）https://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm
 - 《人工智能治理原则》（科技部，2019）https://www.most.gov.cn/kjbgz/201906/t20190617_147107.html
 - 《网络信息内容生态治理规定》（国家网信办，2020）https://www.gov.cn/zhengce/zhengceku/2020-11/25/content_5564110.htm
-- 《互联网信息服务算法推荐管理规定》（国家网信办，2022）
-
+- 《互联网信息服务算法推荐管理规定》（国家网信办，2022）https://www.gov.cn/zhengce/2022-11/26/content_5728941.htm
+- 《生成式人工智能服务管理暂行方法》（国家网信办，2023）https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm
+- 
 ## 二、国外AI治理政策
 
-- 美国：《人工智能倡议行政命令》（Executive Order on Maintaining American Leadership in AI，2019）
-- 欧盟：《欧盟人工智能法案》（AI Act，2021）
-- 英国：《国家人工智能战略》（UK National AI Strategy，2021）
+- 美国：《人工智能倡议行政命令》（Executive Order on Maintaining American Leadership in AI，2019）https://www.federalregister.gov/documents/2019/02/14/2019-02544/maintaining-american-leadership-in-artificial-intelligence
+- European Parliament, Artificial Intelligence Act, UK, June 2023
+- UK Government Department for Science, Innovation and Technology, A Pro-innovation Approach to AI Regulation, UK, 3 August 2023
 
 ## 三、国内外标准与规范
 
